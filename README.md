@@ -5,6 +5,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord" alt="visitor badge"/>
 </div>
 <br>
+
+<h3> 🔥Hot: </h3>
 <div align="center">
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=react-sneakers)](https://github.com/5Cord/react-sneakers)

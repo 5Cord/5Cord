@@ -7,7 +7,7 @@
 <br>
 <div align="center">
   
-  [![ReadMe Card](https://github.com/5Cord/react-sneakers)](https://github.com/5Cord/react-sneakers)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=differ)](https://github.com/5Cord/react-sneakers)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 </div>

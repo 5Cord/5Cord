@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=5Cord&theme=github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?5Cord=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 
@@ -35,21 +35,5 @@
 
 💬 You can reach me in my [Telegram chanel](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry)  directly<br>
 🏆 Articipant of the regional stage of web development in the [Worldskills](https://worldskills.ru/) championship<br>
-⚡ My profile on the freelance site [Kwork](https://kwork.ru/user/5cord)
+⚡ My profile on the freelance site [Kwork](https://kwork.ru/user/5cord)<br>
 📫 How to reach me: [email@example.com](mailto:dmiv.working@gmail.com)
-
-
-<!--
-**5Cord/5Cord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

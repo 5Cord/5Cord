@@ -21,6 +21,9 @@ MongoDB<br>
 💬 You can reach me in my [Telegram Channel](https://t.me/BonjourFriends) or in [Telegram](https://t.me/vaydmitry) directly<br>
 🧑 Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord&left_color=gray"  />
+</div>
 
 
 <!--

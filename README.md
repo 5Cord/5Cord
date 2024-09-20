@@ -27,8 +27,8 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=5Cord&theme=github)
+
 
 
 <h1>🧑 About Me: </h1>

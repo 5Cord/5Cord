@@ -2,8 +2,9 @@
 ###
 
 <div align="center">
-  <img src="(https://visitor-badge.laobi.icu/badge?page_id=5Cord)&left_color=gray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord&left_color=gray" alt="Visitor Badge" />
 </div>
+
 
 # 💻 Tech Stack:
 <h3> Frontend: </h3>

@@ -22,7 +22,7 @@ MongoDB<br>
 🧑 Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
 
 <div align="center">
-  <img src="(https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord)&left_color=gray"  />
+  <img src="(https://visitor-badge.laobi.icu/badge?page_id=5Cord)&left_color=gray"  />
 </div>
 
 

@@ -1,8 +1,7 @@
 <h1 align="center">Hello👋</h1>
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord" alt="visitor badge"/>
 </div>
 
 

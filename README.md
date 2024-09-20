@@ -1,9 +1,15 @@
 <h1 align="center">Hello👋</h1>
 ###
 
+
+# 💻 Tech Stack:
+
 <h1>About Me: </h1>
 💬 You can reach me in my [Telegram Channel](https://t.me/BonjourFriends) or in [Telegram](https://t.me/vaydmitry) directly<br>
-🧑Articipant of the regional stage of web development in the worldskills championship
+🧑Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
+
+
+
 <!--
 **5Cord/5Cord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

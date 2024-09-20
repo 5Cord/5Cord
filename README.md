@@ -3,17 +3,17 @@
 
 
 # 💻 Tech Stack:
-<h5> Frontend </h5>
+<h3> Frontend </h3>
 HTML (BEM)
 CSS (SASS)
 JavaScript (JS)
 React
 
-<h5> Backend </h5>
+<h3> Backend </h3>
 PHP
 Express.js
 
-<h5> Databases </h5>
+<h3> Databases </h3>
 MySQL
 MongoDB
 

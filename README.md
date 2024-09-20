@@ -24,6 +24,7 @@ MongoDB<br>
 
 💬 You can reach me in my [Telegram chanel](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry)  directly<br>
 🏆 Articipant of the regional stage of web development in the [Worldskills](https://worldskills.ru/) championship
+⚡ My profile on the freelance site [Kwork](https://kwork.ru/user/5cord)
 
 
 <!--

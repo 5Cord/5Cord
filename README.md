@@ -27,9 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?5Cord=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=5Cord&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="5Cord" />
 
 <h1>🧑 About Me: </h1>
 

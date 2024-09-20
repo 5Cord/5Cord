@@ -4,9 +4,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord" alt="visitor badge"/>
 </div>
+<br>
 <div align="center">
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/5Cord/react-sneakers)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 </div>

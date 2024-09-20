@@ -22,7 +22,7 @@ MongoDB<br>
 
 <h1>About Me: </h1>
 💬 You can reach me in my [Telegram chanel](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry) directly<br>
-🧑 Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
+🧑 Articipant of the regional stage of web development in the [worldskills](https://worldskills.ru/) championship
 
 <!--
 **5Cord/5Cord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

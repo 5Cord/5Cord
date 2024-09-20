@@ -4,10 +4,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord" alt="visitor badge"/>
 </div>
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
-
+</div>
 
 # 💻 Tech Stack:
 

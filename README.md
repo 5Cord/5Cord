@@ -1,6 +1,9 @@
 <h1 align="center">Hello👋</h1>
 ###
 
+<div align="center">
+  <img src="(https://visitor-badge.laobi.icu/badge?page_id=5Cord)&left_color=gray"  />
+</div>
 
 # 💻 Tech Stack:
 <h3> Frontend: </h3>
@@ -20,11 +23,6 @@ MongoDB<br>
 <h1>About Me: </h1>
 💬 You can reach me in my [Telegram Channel](https://t.me/BonjourFriends) or in [Telegram](https://t.me/vaydmitry) directly<br>
 🧑 Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
-
-<div align="center">
-  <img src="(https://visitor-badge.laobi.icu/badge?page_id=5Cord)&left_color=gray"  />
-</div>
-
 
 <!--
 **5Cord/5Cord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

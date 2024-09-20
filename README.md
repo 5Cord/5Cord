@@ -27,8 +27,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5Cord&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="5Cord" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5Cord&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="5Cord" />
+</div>
 <h1>🧑 About Me: </h1>
 
 💬 You can reach me in my [Telegram chanel](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry)  directly<br>

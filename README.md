@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord&left_color=gray" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 </div>
 
 

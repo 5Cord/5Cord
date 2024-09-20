@@ -3,6 +3,19 @@
 
 
 # 💻 Tech Stack:
+<h5> Frontend </h5>
+HTML (BEM)
+CSS (SASS)
+JavaScript (JS)
+React
+
+<h5> Backend </h5>
+PHP
+Express.js
+
+<h5> Databases </h5>
+MySQL
+MongoDB
 
 <h1>About Me: </h1>
 💬 You can reach me in my [Telegram Channel](https://t.me/BonjourFriends) or in [Telegram](https://t.me/vaydmitry) directly<br>

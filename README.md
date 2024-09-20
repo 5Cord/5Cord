@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<h3> 🔥Hot: </h3>
+<h2 align="center"> 🔥Hot: </h2>
 <div align="center">
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=react-sneakers)](https://github.com/5Cord/react-sneakers)

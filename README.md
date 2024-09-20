@@ -19,7 +19,7 @@ MongoDB<br>
 
 <h1>About Me: </h1>
 💬 You can reach me in my [Telegram Channel](https://t.me/BonjourFriends) or in [Telegram](https://t.me/vaydmitry) directly<br>
-🧑Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
+🧑 Articipant of the regional stage of web development in the (worldskills)[https://worldskills.ru/] championship
 
 
 

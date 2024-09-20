@@ -21,10 +21,10 @@ MySQL<br>
 MongoDB<br>
 
 <h1>🧑 About Me: </h1>
-💬 You can reach me in my [Telegram](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry) directly<br>
+
+💬 You can reach me in my [Telegram](https://t.me/vaydmitry) or in [Telegram](https://t.me/vaydmitry)  directly<br>
 🏆 Articipant of the regional stage of web development in the [Worldskills](https://worldskills.ru/) championship
 
-⚡ [Yandex](https://yandex.com) SRE<br>🏆 [Selectel](https://slc.tl/) scholarship winner (March - June 2024)
 
 <!--
 **5Cord/5Cord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

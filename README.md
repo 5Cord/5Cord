@@ -2,7 +2,8 @@
 <h4 align="center">🚀 2 years of commercial development</h4>
 <h4 align="center">🛠️ Successful freelance projects</h4>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vaydmitry)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5Cord.5Cord" alt="visitor badge"/>

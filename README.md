@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋</h1>
+<h1 align="center">Hello my name is Dmitriy👋</h1>
 <h4 align="center">🚀 2 years of commercial development</h4>
 <h4 align="center">🛠️ Successful freelance projects</h4>
 

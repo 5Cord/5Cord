@@ -11,7 +11,7 @@
 <div align="center">
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=react-sneakers)](https://github.com/5Cord/react-sneakers)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=WS2305)](https://github.com/5Cord/WS2305)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=testGazprom)](https://github.com/5Cord/testGazprom)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=MERN-frontend)](https://github.com/5Cord/MERN-frontend)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=5Cord&repo=MERN-PROJECT)](https://github.com/5Cord/MERN-PROJECT)
 
